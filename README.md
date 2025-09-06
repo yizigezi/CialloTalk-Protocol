@@ -1,2 +1,2 @@
 # CialloTalk-Protocol
-A channel style chat service protocol
+A channel-style chat service protocol
