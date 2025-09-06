@@ -1,0 +1,16 @@
+{
+    "metadata": {
+        "id": "b20cefb5-e14e-49f7-b95d-9ef69a200da7",
+        "contentType": "text/plain",
+        "lang":"en",
+        "sendedAt": "2024-06-01T12:00:00Z",
+        "sender": {
+            "id": "2minRain",
+            "nickname": "Rylin"
+        },
+        "editedAt": null
+    },
+    "content": {
+        "text": "This is a plain text message body."
+    }
+}
